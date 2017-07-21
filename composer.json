@@ -1,5 +1,5 @@
 {
-	"name": "jarkt/docker-php-client",
+	"name": "lialin/docker-php-client",
 	"autoload": {
 		"psr-4": {
 			"jarkt\\docker\\": "src/"
